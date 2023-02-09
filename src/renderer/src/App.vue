@@ -15,6 +15,7 @@ import NumberInput from '@/components/Myinput/NumberInput.vue'
 @Options({
   components: { MyinputDemo, AutoHeightInput, NumberInput }
 })
+// a
 export default class Myinput extends Vue {
   value = ''
   created(): void {}
